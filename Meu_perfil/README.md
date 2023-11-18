@@ -13,4 +13,4 @@ Bem-vindo ao meu perfil! Aqui você encontrará informações sobre minhas habil
 ## Sobre Mim
 
 Aqui está uma breve visão geral sobre mim e minha jornada na área de desenvolvimento de software. Continue lendo para obter detalhes sobre áreas específicas.
-![Minha Foto](capturar.png)
+![Minha Foto](../images/capturar.png)
